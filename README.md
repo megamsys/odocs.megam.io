@@ -25,8 +25,31 @@ This mode has the imperative behaviour of saying "get into this node", "install 
 
 ## [SaaS OnboardCloud valpha](https://github.com/megamsys/onboardcloud) *private repository*
 
+[![ScreenShot](https://raw.github.com/megamsys/odocs.megam.io/master/ressources/onboardcloud_saas_valpha.png)](https://youtu.be/Y0pJUGPBmhc?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
 
-## [SaaS OnboardCloud v1](https://github.com/megamsys/onboardcloud) *private repository*
+[Link to video](https://youtu.be/Y0pJUGPBmhc?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
+
+The problem with is approach is again 
+
+The crux of the requirement is **`I need a cluster in my datacenter which can run apps, containers quickly`**. 
+
+The design had an imperative approach saying *Create Region*, *Create Network*, *Create Storage*.. Now go do this step. There is no way to upgrade or rollback as they are tightly associated to native debs, rpms.
+The components to built the UI from scratch based on a DOM wasn't a recommended approach.
+
+## [SaaS OnboardCloud v1](https://gitlab.com/megamsys/abcdui) *private repository*
+
+[![ScreenShot](https://raw.github.com/megamsys/odocs.megam.io/master/ressources/onboardcloud_saas_v1.png)](https://youtu.be/Y0pJUGPBmhc?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
+
+[Link to video](https://youtu.be/Y0pJUGPBmhc?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
+
+We moved to containerized deployment based on 
+`openshift/origin + kubernetes` which says 
+**Define a namespace or a region** and the clusters with compute + storage + network.  
+
+Some of the steps are manual today controlled from the control pane, this will be automated.
+
+The documentation to use the OnboardService will be available at [Onboard Cloud SaaS](https://odocs.megam.io)
+
 
 
 
