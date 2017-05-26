@@ -38,9 +38,9 @@ The components to built the UI from scratch based on a DOM wasn't a recommended 
 
 ## [SaaS OnboardCloud v1](https://gitlab.com/megamsys/abcdui) *private repository*
 
-[![ScreenShot](https://raw.github.com/megamsys/odocs.megam.io/master/ressources/onboardcloud_saas_v1.png)](https://youtu.be/Y0pJUGPBmhc?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
+[![ScreenShot](https://raw.github.com/megamsys/odocs.megam.io/master/ressources/onboardcloud_saas_v1.png)](https://youtu.be/KEQG9NrSgXk?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
 
-[Link to video](https://youtu.be/Y0pJUGPBmhc?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
+[Link to video](https://youtu.be/KEQG9NrSgXk?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
 
 We moved to containerized deployment based on 
 `openshift/origin + kubernetes` which says 
