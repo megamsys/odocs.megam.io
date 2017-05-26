@@ -1,11 +1,12 @@
 # odocs.megam.io
 Onboard cloud documentation
 
-This is the documentation for the onboard cloud project which helps to unpack, configure hardware to top $$$.
+This is the documentation for the onboard cloud project which helps to unpack, configure hardware to top $$$ using SaaS model.
 
 # Motivatioin
 
 Historically we had tries many times using 
+
 ## [USB with ISO](https://github.com/megamsys/gitpackager/tree/master/megdc/usb) 
 
 This would install the customized operating system based on ubuntu 14, an agent, and start an control pane inside an
@@ -25,7 +26,7 @@ This mode has the imperative behaviour of saying "get into this node", "install 
 
 ## [SaaS OnboardCloud valpha](https://github.com/megamsys/onboardcloud) *private repository*
 
-[![ScreenShot](https://raw.github.com/megamsys/odocs.megam.io/master/ressources/onboardcloud_saas_valpha.png)](https://youtu.be/Y0pJUGPBmhc?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
+[![ScreenShot](/images/onboardcloud_saas_valpha.png)](https://youtu.be/Y0pJUGPBmhc?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
 
 [Link to video](https://youtu.be/Y0pJUGPBmhc?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
 
@@ -38,7 +39,7 @@ The components to built the UI from scratch based on a DOM wasn't a recommended 
 
 ## [SaaS OnboardCloud v1](https://gitlab.com/megamsys/abcdui) *private repository*
 
-[![ScreenShot](https://raw.github.com/megamsys/odocs.megam.io/master/ressources/onboardcloud_saas_v1.png)](https://youtu.be/KEQG9NrSgXk?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
+[![ScreenShot](/images/onboardcloud_saas_v1.png)](https://youtu.be/KEQG9NrSgXk?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
 
 [Link to video](https://youtu.be/KEQG9NrSgXk?list=PL3II32vQRLD4uHX63Qk8qnEbubN2ID9s1)
 
