@@ -13,8 +13,8 @@ This would install the customized operating system based on ubuntu 14, an agent,
 on premise datacenter to do that what they want. The control pane was built using `golang` and had a web interface.
 
 This inherently has tight order of unpacking vanilla hardware to cloud using a specific order that an admin would do via USB.
-![USB](/images/megam_dc.jpg?raw=true "USB")
-![Booted](/images/megam_usb.jpg?raw=true "OS booted")
+![USB](/images/megam_dc_small.jpg?raw=true "USB")
+![Booted](/images/megam_usb_small.jpg?raw=true "OS booted")
 
 This had limitation to control and manage additional hardware using cobbler. But in a datacenter we find machines running already and are provided an SSH ability to connect to. This process was rigid and too much packed including HA and not fully working well.
 
